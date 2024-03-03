@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/libraryFragment"
+        android:title="Library"
+        android:icon="@drawable/baseline_library_books_24"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/chatFragment"
+        android:title="Chat"
+        android:icon="@drawable/baseline_voice_chat_24"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/recordingFragment"
+        android:title="Recording"
+        android:icon="@drawable/baseline_record_voice_over_24"
+        app:showAsAction="always"/>
+
+
+
+</menu>
