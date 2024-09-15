@@ -2,7 +2,9 @@
 
 [![CEWIT HACK 2024 Winner](https://img.shields.io/badge/CEWIT%20HACK%202024-Winner-gold?style=for-the-badge)](https://devpost.com/software/dailylang)
 
-
+<p align="center">
+  <img src="cewit_hack_win.jpg" alt="CEWIT HACK 2024 Winner Photo" width="600">
+</p>
 DailyLang is an innovative language learning app that focuses on practical expression discovery and real-time video translation, leveraging the power of AI to accelerate language proficiency.
 
 ## 🌟 Features
