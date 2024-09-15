@@ -38,13 +38,6 @@ DailyLang is an innovative language learning app that focuses on practical expre
 - Implement computer vision for text recognition and translation
 - Add text-to-speech functionality for vocalization of sentences
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/dailylang/issues).
-
-## 📝 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 👤 Author
 
@@ -56,8 +49,6 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 ## 🙏 Acknowledgments
 
 - CEWIT HACK 2024 organizers and judges
-- All contributors and supporters of the project
 
 ---
 
-Made with ❤️ for language learners everywhere
